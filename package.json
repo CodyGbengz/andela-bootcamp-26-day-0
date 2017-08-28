@@ -1,0 +1,26 @@
+{
+  "name": "andela-bootcamp-26-day-0",
+  "version": "1.0.0",
+  "description": "arithGeo function with test using mocha and chai",
+  "main": "index.js",
+  "directories": {
+    "test": "test/test.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyWunderdog/andela-bootcamp-26-day-0.git"
+  },
+  "author": "Gbenga Ode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillyWunderdog/andela-bootcamp-26-day-0/issues"
+  },
+  "homepage": "https://github.com/WillyWunderdog/andela-bootcamp-26-day-0#readme",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
